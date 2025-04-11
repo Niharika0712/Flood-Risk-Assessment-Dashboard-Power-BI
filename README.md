@@ -1,1 +1,4 @@
 # Flood-Risk-Assessment-Dashboard-Power-BI
+This is a Flood Risk Assessment Dashboard I built using Power BI to explore the environmental and human factors associated with flood occurrences in India. The dashboard uses filters like soil type, land cover, population density, and river discharge to analyze how each variable impacts the likelihood of flooding.
+For instance, I found that regions with Peat and Silt soils, and areas near water bodies, had higher flood occurrences. Surprisingly, floods are fairly evenly distributed regardless of population density, which indicates that other factors might have more influence.
+The visuals are interactive and help in identifying high-risk zones quickly. If I had location data, I’d further enhance this with a geographical map and some predictive metrics.
